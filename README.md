@@ -1,4 +1,4 @@
-# cpnv-es.github.io
+# The CPNV-ES Learning Path
 
 ## Git
 
