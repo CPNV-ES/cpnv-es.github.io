@@ -1,6 +1,6 @@
 # The CPNV-ES Learning Path
 
-Here are a few links
+Here are a few links with some changes
 
 ## Git
 
