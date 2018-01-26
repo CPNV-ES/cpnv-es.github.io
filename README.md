@@ -2,5 +2,9 @@
 
 Liste de références pour le développement en techniciens
 
-  * [Utilisation de Git](git.md)
-  * [Gestion de projet avec Trello](trello.md)
+## Gestion de projet
+  * [Gestion de projet avec Trello](trello.md), organiser ses projets avec Trello,...
+
+## Outils de développement
+
+  * [Utilisation de Git](git.md): Gitflow, Best practices for Git Commit,...
