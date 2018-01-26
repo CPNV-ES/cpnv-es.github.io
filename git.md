@@ -1,9 +1,11 @@
-## Git
+# Git
 
-* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-* [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+## Gitflow
 
-### Best practices for Git Commit ([source](https://chris.beams.io/posts/git-commit/))
+ * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+ * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+## Best practices for Git Commit ([source](https://chris.beams.io/posts/git-commit/))
  1. Separate subject from body with a blank line
  2. Limit the subject line to 50 characters
  3. Capitalize the subject line
