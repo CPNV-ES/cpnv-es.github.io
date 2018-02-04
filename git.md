@@ -1,5 +1,18 @@
 # Git
 
+## Git config
+
+Once per dev machine, configure git with the folowwing:
+
+```bash
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+git config --global core.autocrlf false
+```
+
+Remember to always use a text editor configured with **LF** newlines. Special care on Windows which the default is CR-LF.
+
 ## Gitflow
 
  * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
