@@ -11,7 +11,7 @@ Merci à [Chocolatey](https://chocolatey.org/)!
 
 **Installez-le!**
 
-Ensuite, pour intaller un logiciel, il suffit de tapper ceci depuis une ligne de commande: (plus de `suivant` ⇨ `suivant`)
+Ensuite, pour intaller un logiciel, il suffit de taper ceci depuis une ligne de commande: (plus de `suivant` ⇨ `suivant`)
 
 ```bash
 choco install <nom_du_logiciel>

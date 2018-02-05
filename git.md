@@ -2,7 +2,7 @@
 
 ## Git config
 
-Once per dev machine, configure git with the folowwing:
+Once per dev machine, configure git with the following:
 
 ```bash
 git config --global user.name "John Doe"

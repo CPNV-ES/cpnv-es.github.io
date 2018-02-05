@@ -7,7 +7,7 @@ il existe un _package manager_ c'est [Homebrew](https://brew.sh/index_fr.html).
 
 **Installez-le!**
 
-Ensuite, pour intaller un logiciel, il suffit de tapper ceci depuis une ligne de commande:
+Ensuite, pour intaller un logiciel, il suffit de taper ceci depuis une ligne de commande:
 
 ```bash
 brew install <nom_du_logiciel>
