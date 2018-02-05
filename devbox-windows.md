@@ -26,3 +26,13 @@ Installez [cmder](http://cmder.net)
 ```bash
 choco install cmder
 ```
+
+### Définir le codepage en UTF-8
+
+Allez dans le menu sous `Settings...`, puis dans `Startup/Environment` ajouter la ligne suivante dans la zone de texte à droite:
+
+```bash
+chcp 65001
+```
+
+Voici une copie d'écran qui illustre ceci: ![cmder chcp](cmder_chcp.png)
