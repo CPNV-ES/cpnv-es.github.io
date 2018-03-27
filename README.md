@@ -17,3 +17,12 @@ This is a list of resources available to developers joining the team...
   * [Comments](comments.md)
 
   * [PHP](php.md)
+
+
+## Miscellanous
+
+  * 
+  
+## Others
+
+  * Original idea seen on [Starway to Orione](https://github.com/xpeppers/starway-to-orione) 
