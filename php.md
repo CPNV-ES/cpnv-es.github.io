@@ -20,3 +20,6 @@ All articles and resources with regards to PHP development
   * https://laracasts.com/discuss/channels/laravel/nested-resources-controllers-views
   * https://laracasts.com/discuss/channels/laravel/nested-resources-controllers-structure
 
+### [Automatic deploys to swisscenter servers](capify_laravel_for_swisscenter.md)
+
+How to deploy to _swisscenter_ (hosting our mycpnv.ch domain) in a single command!
