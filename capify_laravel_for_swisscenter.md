@@ -71,16 +71,16 @@ A faire une seule fois sur la/les machines de développement.
 
         # Determine the PHP version chosen in the swisscenter control panel
         task :set_php_version do
-        	on roles(:all) do
+          on roles(:all) do
             execute "ls /home/#{fetch(:swisscenter_username)}/.data/#{fetch(:swisscenter_servername)}_php* 2>/dev/null | sed -E 's/.+(php[[:digit:]]+)$/\\1/' >/tmp/.php-cli-version"
           end
         end
 
         # Copy .env in the current release
         task :copy_dotenv do
-        	on roles(:all) do
-        		execute :cp, "#{shared_path}/.env #{release_path}/.env" 
-        	end
+          on roles(:all) do
+            execute :cp, "#{shared_path}/.env #{release_path}/.env" 
+          end
         end
 
         # Until the `capistrano/laravel` gem is updated, manually remove the `laravel:optimize` task which exists no more from Laravel >=5.5
@@ -92,7 +92,7 @@ A faire une seule fois sur la/les machines de développement.
     Depuis le répertoire du projet, lancez cette commande en substituant `swisscenter_username` par le nom du compte sur swisscenter:
 
     ```bash
-    ssh-keygen -t rsa -b 4096 -C "swisscenter_username@projectname.mycpnv.ch" -f config/<swisscenter_username>_rsa -N ''
+    ssh-keygen -t rsa -b 4096 -C "swisscenter_username@projectname.mycpnv.ch" -f config/swisscenter_username_rsa -N ''
     ```
     
     **ATTENTION**: Ces clés ne doivent pas être publiées, il faut donc **éviter** de les mettre dans votre repository.
@@ -110,7 +110,7 @@ A faire une seule fois sur la/les machines de développement.
     
     **Définir la clé SSH pour l'accès distant.**
     
-    Cliquez sur l'icône _SSH_ puis copiez le contenu du fichier `config/<swisscenter_username>_rsa.pub` dans le champs _Clé publique SSH_.
+    Cliquez sur l'icône _SSH_ puis copiez le contenu du fichier `config/swisscenter_username_rsa.pub` dans le champs _Clé publique SSH_.
     N'oubliez pas d'activer l'accès en cliquant sur _Actif_ dans le champs _Statut de l'accès SSH_.
     
  2. Connectez-vous en SSH chez swisscenter:
