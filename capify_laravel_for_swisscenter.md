@@ -68,7 +68,8 @@ A faire une seule fois sur la/les machines de développement.
 
         before 'composer:run', 'set_php_version'
         after  'composer:run', 'copy_dotenv'
-
+        after  'composer:run', 'laravel:migrate'
+        
         # Determine the PHP version chosen in the swisscenter control panel
         task :set_php_version do
           on roles(:all) do
@@ -87,7 +88,43 @@ A faire une seule fois sur la/les machines de développement.
         Rake::Task['laravel:optimize'].clear_actions rescue nil
         ```
     
- 3. Créer une paire de clés SSH pour le lien _machine de dév_ -> _swisscenter_
+ 3. Adapter l'application Larvel pour la version de mysql chez swisscenter
+
+    Modifiez le fichier `app/Providers/AppServiceProvider.php` pour qu'il ressemble à ceci:
+    
+    ```
+    <?php
+
+    namespace App\Providers;
+
+    use Illuminate\Support\ServiceProvider;
+    use Illuminate\Support\Facades\Schema;  // <== Mandatory for production use
+
+    class AppServiceProvider extends ServiceProvider
+    {
+        /**
+         * Bootstrap any application services.
+         *
+         * @return void
+         */
+        public function boot()
+        {
+            Schema::defaultStringLength(191);  // <== Mandatory for production use
+        }
+        
+        /**
+         * Register any application services.
+         *
+         * @return void
+         */
+        public function register()
+        {
+            //
+        }
+    }
+    ```
+    
+ 4. Créer une paire de clés SSH pour le lien _machine de dév_ -> _swisscenter_
 
     Depuis le répertoire du projet, lancez cette commande en substituant `swisscenter_username` par le nom du compte sur swisscenter:
 
