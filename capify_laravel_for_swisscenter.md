@@ -88,11 +88,12 @@ A faire une seule fois sur la/les machines de développement.
         Rake::Task['laravel:optimize'].clear_actions rescue nil
         ```
     
- 3. Adapter l'application Larvel pour la version de mysql chez swisscenter
+ 3. Si vous avez une application Laravel >= 5.4, il faut l'adapter pour la version de mysql chez swisscenter
 
-    Modifiez le fichier `app/Providers/AppServiceProvider.php` pour qu'il ressemble à ceci:
+    Modifiez le fichier `app/Providers/AppServiceProvider.php` pour qu'il ressemble à ceci:  
+    (Les changements sont montrés par le commentaire `<== Mandatory for production use`)
     
-    ```
+    ```php
     <?php
 
     namespace App\Providers;
