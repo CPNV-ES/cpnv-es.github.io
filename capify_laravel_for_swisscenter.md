@@ -217,9 +217,11 @@ Il faut effectuer un premier déploiement afin de pouvoir faire un dernier régl
 
 ## C'est prêt
 
-A chaque fois que vous voulez déployer, faite (depuis votre répertoire de projet sur la machine de développement):
+A chaque fois que vous voulez déployer:
 
-    cap production deploy
+1. Faites `cap production deploy` depuis votre répertoire de projet sur la machine de développement):
+
+2. Depuis la [console](https://apanel.swisscenter.com/login) chez swisscenter, redéfinissez le répertoire de base du serveur web `/current/public`. Cela est illogique car `current` est un lien, mais si vous ne le faites pas, votre site continuera à être servi à partir de la release précédente !
 
 Pour revenir à la version précédente:
 
