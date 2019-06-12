@@ -30,3 +30,12 @@
   * [Martin Fowler – Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI)
   * [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
 
+## Code structure
+
+   * [Quote: Extend domain to simplify algorithm](https://youtu.be/AnZ0uTOerUI?t=1026)
+   * [Quote: Code golf with text file input, console output: Guitar Tablatures](https://youtu.be/AnZ0uTOerUI?t=1180)
+   * [Quote: SOLID vs Ma (https://fr.wikipedia.org/wiki/Ma_(esth%C3%A9tique))](https://youtu.be/8Y-XPlXOWoA?t=1680)
+
+   * [Refactoring session](https://youtu.be/FyCYva9DhsI?t=3488)
+   * [Six Little Lines of Fail](https://www.youtube.com/watch?v=VvUdvte1V3s)
+   * [The Post JavaScript Apocalypse - Douglas Crockford](https://www.youtube.com/watch?v=99Zacm7SsWQ)
