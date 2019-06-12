@@ -21,6 +21,8 @@ chez swisscenter, il en va de même pour `projectname` mettez le vrai nom de vot
 A faire une seule fois sur la/les machines de développement.
 
  1. Installer ruby
+
+ Attention: sur OSX Mojave (et plus vraisemblalement) il faut downgrader la gem `rbnacl` à la version 4.0.2 
     
  2. Installer capistrano
     `gem install capistrano capistrano-laravel`
@@ -130,7 +132,7 @@ A faire une seule fois sur la/les machines de développement.
     Depuis le répertoire du projet, lancez cette commande en substituant `swisscenter_username` par le nom du compte sur swisscenter:
 
     ```bash
-    ssh-keygen -t rsa -b 4096 -C "swisscenter_username@projectname.mycpnv.ch" -f config/swisscenter_username_rsa -N ''
+    ssh-keygen -t rsa -b 4096 -C "swisscenter_username@projectname.mycpnv.ch" -f config/swisscenter_username_rsa -N '' -m PEM
     ```
     
     **ATTENTION**: Ces clés ne doivent pas être publiées, il faut donc **éviter** de les mettre dans votre repository.
@@ -215,9 +217,11 @@ Il faut effectuer un premier déploiement afin de pouvoir faire un dernier régl
 
 ## C'est prêt
 
-A chaque fois que vous voulez déployer, faite (depuis votre répertoire de projet sur la machine de développement):
+A chaque fois que vous voulez déployer:
 
-    cap production deploy
+1. Faites `cap production deploy` depuis votre répertoire de projet sur la machine de développement):
+
+2. Depuis la [console](https://apanel.swisscenter.com/login) chez swisscenter, redéfinissez le répertoire de base du serveur web `/current/public`. Cela est illogique car `current` est un lien, mais si vous ne le faites pas, votre site continuera à être servi à partir de la release précédente !
 
 Pour revenir à la version précédente:
 
