@@ -8,6 +8,10 @@
 
   * [Object Oriented: Keep It DRY, Shy, and Tell the Other Guy](https://media.pragprog.com/articles/may_04_oo1.pdf)
 
+  * [Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask)
+  
+  * [Anti IF campaing](https://francescocirillo.com/pages/anti-if-campaign) [The missing (anti IF) patterns](https://code.joejag.com/2016/anti-if-the-missing-patterns.html)
+
 ## Software life-cycle
 
   * [Semantic Versioning](https://semver.org)
