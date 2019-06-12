@@ -17,3 +17,16 @@
 
   * [Keep a changelog](http://keepachangelog.com)
 
+## Architecture
+
+> "Architecture is the _decisions_ that you _wish you could get right_ early in a project" -- Ralph Johnson
+
+  * [Quote: "A team leader HAS to code" - Martin Fowler](https://youtu.be/VjKYO6DP3fo?t=564)
+  * [Quote: "The Data Model (DB) has to be done before any agile sprint"](https://youtu.be/VjKYO6DP3fo?t=937)
+  * [Quote: "How to check if the architecture is known by the team?" - Kent Beck](https://youtu.be/VjKYO6DP3fo?t=1250)
+
+  * [Making Architecture Matter - Martin Fowler](https://www.youtube.com/watch?v=DngAZyWMGR0)
+  * [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
+  * [Martin Fowler – Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI)
+  * [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
+
