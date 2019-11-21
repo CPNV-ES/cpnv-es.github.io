@@ -19,6 +19,19 @@ Remember to always use a text editor configured with **LF** newlines. Special ca
  * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
  * [GitFlow: la méthodologie et la pratique](https://blog.nathanaelcherrier.com/2016/07/11/gitflow-la-methodologie-et-la-pratique/)
 
+### Windows Install
+
+```bash
+choco install gitflow-avh
+```
+
+### macOS Install
+
+```bash
+brew install git-flow-avh
+```
+
+
 ## Best practices for Git Commit ([source](https://chris.beams.io/posts/git-commit/))
  1. Separate subject from body with a blank line
  2. Limit the subject line to 50 characters
