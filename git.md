@@ -18,6 +18,8 @@ Remember to always use a text editor configured with **LF** newlines. Special ca
  * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
  * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
  * [GitFlow: la méthodologie et la pratique](https://blog.nathanaelcherrier.com/2016/07/11/gitflow-la-methodologie-et-la-pratique/)
+ * [GitFlow CheatSheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+ * [git-flow commands VS raw git commands](https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac)
 
 ### Windows Install
 
