@@ -9,9 +9,10 @@
   * [Object Oriented: Keep It DRY, Shy, and Tell the Other Guy](https://media.pragprog.com/articles/may_04_oo1.pdf)
   * [Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask)
   
-  * [Anti IF campaing](https://francescocirillo.com/pages/anti-if-campaign) [The missing (anti IF) patterns](https://code.joejag.com/2016/anti-if-the-missing-patterns.html)
+  * [Anti IF campaing](https://francescocirillo.com/pages/anti-if-campaign)
+    [The missing (anti IF) patterns](https://code.joejag.com/2016/anti-if-the-missing-patterns.html)
   
-  * [Quote: Why are we so slow (programming) ? - Uncle Bob](https://youtu.be/SVRiktFlWxI?t=3064) 👍@55:29 until 58:40
+  * [Quote: Why are we so slow (programming) ? - Uncle Bob](https://www.youtube.com/embed/SVRiktFlWxI?start=3064&end=3520)
   
   * Quote: Uncle Bob Martin:
     
@@ -22,7 +23,11 @@
     > > On the other hand, if you give me code that does not work and I can understant it, I can make it WORK.
     > It is more important that your peers are able to understand the code you write than the computer understands the code you wrote.
     
-  * [Quote: Do we need code comments? - Uncle Bob](https://youtu.be/SVRiktFlWxI?t=9989) until 2:56:21
+  * [Quote: Do we need code comments? - Uncle Bob](https://www.youtube.com/embed/SVRiktFlWxI?start=9989&end=10581)
+
+  * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+
+  * [Bruce Lee Driven Development](https://www.youtube.com/watch?v=MPYyJ3Jv44E)
 
 ## Software life-cycle
 
@@ -34,28 +39,38 @@
 
 > "Architecture is the _decisions_ that you _wish you could get right_ early in a project" -- Ralph Johnson
 
-  * [Quote: "A team leader HAS to code" - Martin Fowler](https://youtu.be/VjKYO6DP3fo?t=564)
-  * [Quote: "The Data Model (DB) has to be done before any agile sprint"](https://youtu.be/VjKYO6DP3fo?t=937)
-  * [Quote: "How to check if the architecture is known by the team?" - Kent Beck](https://youtu.be/VjKYO6DP3fo?t=1250)
+  * [Agile Architecture - Molly Dishman & Martin Fowler Keynote](https://www.youtube.com/watch?v=VjKYO6DP3fo)
+    * [Quote: "A team leader HAS to code" - Martin Fowler](https://www.youtube.com/embed/VjKYO6DP3fo?start=564&end=572)
+    * [Quote: "The DB Schema no longer has to be completely defined before coding"](https://www.youtube.com/embed/VjKYO6DP3fo?start=937&end=1085)
+    * [Quote: "How to check if the architecture is known by the team?" - Kent Beck](https://www.youtube.com/embed/VjKYO6DP3fo?start=1250&end=1318)
 
   * [Making Architecture Matter - Martin Fowler](https://www.youtube.com/watch?v=DngAZyWMGR0)
   * [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
   * [Martin Fowler – Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI)
   * [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
   
-  * [The Database is a detail - Uncle Bob](https://youtu.be/qnq9syXUuFE?t=8676) until 2:33:24
+  * [Quote: "The Database is a detail" - Uncle Bob](https://www.youtube.com/embed/qnq9syXUuFE?start=8676&end=9204)
 
 ## Code structure
 
-   * [Quote: Extend domain to simplify algorithm](https://youtu.be/AnZ0uTOerUI?t=1026)
-   * [Quote: Code golf with text file input, console output: Guitar Tablatures](https://youtu.be/AnZ0uTOerUI?t=1180)
-   * [Quote: SOLID vs Ma (https://fr.wikipedia.org/wiki/Ma_(esth%C3%A9tique))](https://youtu.be/8Y-XPlXOWoA?t=1680)
+   * [Clip: Extend domain to simplify algorithm](https://www.youtube.com/embed/AnZ0uTOerUI?start=1026&end=1176)
+   * [Clip: Code golf with text file input, console output: Guitar Tablatures](https://www.youtube.com/embed/AnZ0uTOerUI?start=1180&end=1754)
+   * [Clip: SOLID vs Ma](https://www.youtube.com/embed/8Y-XPlXOWoA?start=1680&end=1831)
 
-   * [Refactoring session](https://youtu.be/FyCYva9DhsI?t=3488)
+   * [Clip: Refactoring session](https://youtu.be/FyCYva9DhsI?t=3488)
    * [Six Little Lines of Fail](https://www.youtube.com/watch?v=VvUdvte1V3s)
    * [The Post JavaScript Apocalypse - Douglas Crockford](https://www.youtube.com/watch?v=99Zacm7SsWQ)
+   
+   * [Refactoring - Martin Fowler](https://www.youtube.com/watch?v=6wDoopbtEqk)
+   * [Code Refactoring: Learn Code Smells And Level Up Your Game! - Sandi Metz](https://www.youtube.com/watch?v=D4auWwMsEnY)
 
 ## Others
 
-  * [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  * [What the heck is the event loop anyway? - Philip Roberts - JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
   
+  * [Developer responsibility? - GOTO 2014 • Not Just Code Monkeys • Martin Fowler](https://www.youtube.com/watch?v=4E3xfR6IBII)
+  
+  * [What Does Tech Excellence Look Like? – TW Live Australia 2016 – Martin Fowler](https://www.youtube.com/watch?v=Avs70dZ3Vlk)
+  
+  * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=gdSlcxxYAA8)
+
