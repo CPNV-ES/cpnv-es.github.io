@@ -42,3 +42,8 @@ brew install git-flow-avh
  5. Use the imperative mood in the subject line ("If applied, this commit will __your subject line here__")
  6. Wrap the body at 72 characters
  7. Use the body to explain what and why vs. how
+
+## Advanced usage
+
+ * [Rules to Git By (Explaining git internal structure, rebase vs merge, bisect)](https://www.youtube.com/watch?v=yI0BtEzdGtw)
+
