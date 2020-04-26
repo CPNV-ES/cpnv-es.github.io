@@ -6,7 +6,7 @@ This is a list of resources available to developers joining the team...
 
   * [Gestion de projet avec Trello](trello.md), organiser ses projets avec Trello,...
   * [What went wrong with the IT-industry? - James Coplien](https://www.youtube.com/watch?v=gPP7Bleg214)
-  * Le [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Finnish.pdf)
+  * Le [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)
 
 ## Development tools
 
