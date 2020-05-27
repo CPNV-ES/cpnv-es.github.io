@@ -4,9 +4,9 @@ This is a list of resources available to developers joining the team...
 
 ## Project management
 
-  * [Gestion de projet avec Trello](trello.md), organiser ses projets avec Trello,...
+  * We use Agile methods, making frequent references to the [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)
+  * There are some things that we do "à la sauce CPNV". You can find them in our page of [local recipes](local_recipes.md)
   * [What went wrong with the IT-industry? - James Coplien](https://www.youtube.com/watch?v=gPP7Bleg214)
-  * Le [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)
 
 ## Development tools
 
