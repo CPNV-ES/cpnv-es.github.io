@@ -22,6 +22,7 @@ Aptitude à l'analyse de situations. Bonne pratique de l'algèbre avec résoluti
 
 ### Formation ICT
 La formation [CFC en Informatique](https://www.ict-berufsbildung.ch/fr/) constitue une base solide pour la formation ES en développement d’application. En particulier les modules ICT suivants, tous orientés « développement d’application », développent des compétences essentielles pour l’entrée en formation ES (les liens mènent vers les descriptifs des cours ICT) :
+
  * Types de données: ICT-100 [Distinguer, préparer et évaluer des données](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=100&clang=fr)
  * HTML/CSS/DOM: ICT-101 [Réaliser et publier un site Web](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=101&clang=fr)
  * Modélisation: ICT-104 [Implémenter un modèle de données](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=104&clang=fr)
@@ -39,6 +40,7 @@ La formation [CFC en Informatique](https://www.ict-berufsbildung.ch/fr/) constit
 
 ### Programmation
 Vous devez avoir la « maîtrise de base » d'un certain nombre de concepts de programmation. La maîtrise du concept est acquise quand :
+
  * Le concept peut être énoncé correctement
  * Le concept peut être expliqué à un public d’informaticien
  * Les avantages et les inconvénients peuvent être cités
@@ -46,6 +48,7 @@ Vous devez avoir la « maîtrise de base » d'un certain nombre de concepts de p
  * Du code informatique a été écrit pour le mettre en œuvre.
 
 Les concepts en question sont :
+
  * Les types primitifs avec leurs opérateurs (int, float, char,…)
  * Les tableaux et comment les manipuler, les parcourir,…
  * L’architecture générale d’un système basé sur le Web: Frontend, Backend, API
