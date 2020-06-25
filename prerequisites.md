@@ -22,20 +22,20 @@ Aptitude à l'analyse de situations. Bonne pratique de l'algèbre avec résoluti
 
 ### Formation ICT
 La formation [CFC en Informatique](https://www.ict-berufsbildung.ch/fr/) constitue une base solide pour la formation ES en développement d’application. En particulier les modules ICT suivants, tous orientés « développement d’application », développent des compétences essentielles pour l’entrée en formation ES (les liens mènent vers les descriptifs des cours ICT) :
- * 100 [Distinguer, préparer et évaluer des données](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=100&clang=fr)
- * 101 [Réaliser et publier un site Web](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=101&clang=fr)
- * 104 [Implémenter un modèle de données](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=104&clang=fr)
- * 105 [Traiter une base de données avec SQL](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=105&clang=fr)
- * 114 [Mettre en œuvre des systèmes de codification, de compression et d’encryptage](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=114&clang=fr)
- * 120 [Implémenter les interfaces graphiques d’applications](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=120&clang=fr)
- * 133 [Réaliser des applications Web en Session-Handling](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=133&clang=fr)
- * 151 [Intégrer des bases de données dans des applications Web](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=151&clang=fr)
- * 226A [Implémenter (sans hérédité) sur la base des classes](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=226B&clang=fr)
- * 226B [Implémenter orienté objets (avec hérédité)](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=226B&clang=fr)
- * 239 [Mettre en service un serveur Web](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=239&clang=fr)
- * 403 [Implémenter de manière procédurale des déroulements de programme](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=403&clang=fr)
- * 404 [Programmer orienté objets selon directives](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=404&clang=fr)
- * 431 [Exécuter des mandats de manière autonome dans un environnement informatique](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=431&clang=fr)
+ * Types de données: ICT-100 [Distinguer, préparer et évaluer des données](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=100&clang=fr)
+ * HTML/CSS/DOM: ICT-101 [Réaliser et publier un site Web](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=101&clang=fr)
+ * Modélisation: ICT-104 [Implémenter un modèle de données](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=104&clang=fr)
+ * SQL: ICT-105 [Traiter une base de données avec SQL](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=105&clang=fr)
+ * JSon, XML, Taille des données, Chiffrements symétriques et asymétriques: ICT-114 [Mettre en œuvre des systèmes de codification, de compression et d’encryptage](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=114&clang=fr)
+ * Principes de l'ergonomie, Javascript: ICT-120 [Implémenter les interfaces graphiques d’applications](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=120&clang=fr)
+ * PhP: ICT-133 [Réaliser des applications Web en Session-Handling](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=133&clang=fr)
+ * PhP, SQL: ICT-151 [Intégrer des bases de données dans des applications Web](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=151&clang=fr)
+ * Programmation orientée objet (Classe, Objet, Attribut, Méthode, Visibilité): ICT-226A [Implémenter (sans hérédité) sur la base des classes](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=226B&clang=fr)
+ * Programmation orientée objet (Hérédité): ICT-226B [Implémenter orienté objets (avec hérédité)](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=226B&clang=fr)
+ * HTTP, Architecture client/serveur, concept de service, connexion IP (adresse+port), timeout: ICT-239 [Mettre en service un serveur Web](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=239&clang=fr)
+ * Instructions de branchement, Instructions de boucle, fonctions: ICT-403 [Implémenter de manière procédurale des déroulements de programme](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=403&clang=fr)
+ * Programmation orientée objet (Objet, Attribut, Méthode): ICT-404 [Programmer orienté objets selon directives](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=404&clang=fr)
+ * Méthodologie de travail (Agile): ICT-431 [Exécuter des mandats de manière autonome dans un environnement informatique](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=431&clang=fr)
 
 ### Programmation
 Vous devez avoir la « maîtrise de base » d'un certain nombre de concepts de programmation. La maîtrise du concept est acquise quand :
