@@ -4,6 +4,8 @@ Pour bien développer sous Windows, il est fortement recommandé d'avoir des out
 
 ## Package manager
 
+### Chocolatey
+
 Bien qu'historiquement Windows n'ait pas eu de façon unifiée d'installer des logiciels (à l'instar de Linux ou macOS),
 il en est autrement aujourd'hui.
 
@@ -15,6 +17,16 @@ Ensuite, pour intaller un logiciel, il suffit de taper ceci depuis une ligne de 
 
 ```bash
 choco install <nom_du_logiciel>
+```
+
+### npm
+
+Un autre package manager très répandu est npm de Node.js
+
+Pour l'installer:
+
+```bash
+choco install nodejs
 ```
 
 ## Shell
