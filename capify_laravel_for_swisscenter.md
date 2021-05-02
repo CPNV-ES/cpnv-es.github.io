@@ -24,9 +24,15 @@ A faire une seule fois sur la/les machines de développement.
 
  Attention: sur OSX Mojave (et plus vraisemblalement) il faut downgrader la gem `rbnacl` à la version 4.0.2 
     
- 2. Installer capistrano
-    `gem install capistrano capistrano-laravel`
-
+ 2. Installer capistrano  
+ 
+ `gem install capistrano capistrano-laravel`
+   
+ 3. Enregistrer explicitement les routes de gestion de ressource  
+ 
+ Pour que les routes de gestion de resources fonctionnent correctement sur Swisscenter, il est nécessaire de faire appel à la méthode `register`.  
+ Exemple: `Route::resource('things', ThingController::class)->register();`
+ 
 ### Configurer capistrano pour le projet laravel
 
  1. Dans le répertoire du projet laravel:
