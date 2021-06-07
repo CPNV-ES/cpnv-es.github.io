@@ -20,6 +20,13 @@ All articles and resources with regards to PHP development
   * https://laracasts.com/discuss/channels/laravel/nested-resources-controllers-views
   * https://laracasts.com/discuss/channels/laravel/nested-resources-controllers-structure
 
+
+### Add custom helpers
+
+  * https://stackoverflow.com/questions/28290332/best-practices-for-custom-helpers-in-laravel-5
+  * https://sarav.co/custom-helpers-function-laravel-6
+  * https://medium.com/@razamoh/create-own-custom-helper-functions-classes-in-laravel-e8d2f50ff38
+
 ### [Automatic deploys to swisscenter servers](capify_laravel_for_swisscenter.md)
 
 How to deploy to _swisscenter_ (hosting our mycpnv.ch domain) in a single command!
