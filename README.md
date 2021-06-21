@@ -26,3 +26,4 @@ This is a list of resources available to developers joining the team...
 ## Others
 
   * Original idea seen on [Starway to Orione](https://github.com/xpeppers/starway-to-orione) 
+  * Another well synthetized [Learning path](https://github.com/joebew42/study-path)

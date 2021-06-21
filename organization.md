@@ -11,6 +11,7 @@
   
   * [Anti IF campaing](https://francescocirillo.com/pages/anti-if-campaign)
     [The missing (anti IF) patterns](https://code.joejag.com/2016/anti-if-the-missing-patterns.html)
+    [If considered harmful: How to eradicate 95% of all your bugs in one simple step - Jules May](https://www.youtube.com/watch?v=z43bmaMwagI)
   
   * [Quote: Why are we so slow (programming) ? - Uncle Bob](https://www.youtube.com/embed/SVRiktFlWxI?start=3064&end=3520)
   
@@ -26,6 +27,7 @@
   * [Quote: Do we need code comments? - Uncle Bob](https://www.youtube.com/embed/SVRiktFlWxI?start=9989&end=10581)
 
   * [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+  * [Iteration or concurrency?](https://journal.stuffwithstuff.com/2013/02/24/iteration-inside-and-out-part-2/)
 
   * [Bruce Lee Driven Development](https://www.youtube.com/watch?v=MPYyJ3Jv44E)
 
@@ -34,6 +36,8 @@
   * [Semantic Versioning](https://semver.org)
 
   * [Keep a changelog](http://keepachangelog.com)
+
+  * [Effective Estimation (or: How not to Lie) - Uncle Bob](https://www.youtube.com/watch?v=eisuQefYw_o)
 
 ## Architecture
 
@@ -56,6 +60,8 @@
    * [Clip: Extend domain to simplify algorithm](https://www.youtube.com/embed/AnZ0uTOerUI?start=1026&end=1176)
    * [Clip: Code golf with text file input, console output: Guitar Tablatures](https://www.youtube.com/embed/AnZ0uTOerUI?start=1180&end=1754)
    * [Clip: SOLID vs Ma](https://www.youtube.com/embed/8Y-XPlXOWoA?start=1680&end=1831)
+   * Before you read or watch on SOLID, watch this [YOW! 2013 Kevlin Henney - The SOLID Design Principles Deconstructed](https://www.youtube.com/watch?v=tMW08JkFrBA)
+   * [The Single Responsibility Principle Revisited](https://thevaluable.dev/single-responsibility-principle-revisited/)
 
    * [Clip: Refactoring session](https://youtu.be/FyCYva9DhsI?t=3488)
    * [Six Little Lines of Fail](https://www.youtube.com/watch?v=VvUdvte1V3s)
@@ -74,3 +80,4 @@
   
   * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=gdSlcxxYAA8)
 
+  * [The Early History Of Smalltalk - Alan Kay](http://worrydream.com/EarlyHistoryOfSmalltalk/)

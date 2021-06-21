@@ -46,4 +46,25 @@ brew install git-flow-avh
 ## Advanced usage
 
  * [Rules to Git By (Explaining git internal structure, rebase vs merge, bisect)](https://www.youtube.com/watch?v=yI0BtEzdGtw)
+ * [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+
+## External resources
+
+ * [GIT.WTF!!](https://git.wtf)
+ 
+## What should be left OUT?
+
+ - All **generated** files
+ - All dependencies managed through a package manager
+ - All local config files
+ - Your personal IDE config files
+ - Big binary files (.psd, .zip, ...)
+
+### `node_modules`
+
+- https://byjoeybaker.com/why-you-should-never-commit-node-modules-in-nodejs
+- https://flaviocopes.com/should-commit-node-modules-git/
+- https://www.positronx.io/should-i-commit-the-node_modules-folder-to-git/
+- https://stackoverflow.com/questions/18128863/should-node-modules-folder-be-included-in-the-git-repository
+
 
