@@ -1,11 +1,14 @@
-# Prérequis pour rentrer à l'ES
+# Prérequis pour le début de formation
 
 Ce document liste, dans les différentes branches, le niveau de connaissance attendu lors de l’entrée à l’école supérieure. Il est de la responsabilité de chaque étudiant de s’assurer qu’il a les connaissances requises.
 
 ## Branches fondamentales
 
 ### Anglais
-Level of English required: A2 level for the Pre-Intermediate class, as they are aiming the B1 level BEC exam. B1 level of English for the Intermediate class, as they are aiming the B2 level BEC exam.
+Level of English required: 
+
+- A2 level for the Pre-Intermediate class, as they are aiming the B1 level BEC exam.
+- B1 level of English for the Intermediate class, as they are aiming the B2 level BEC exam.
 
 ### Mathématique
 Des connaissances de base sont attendus dans les domaines suivants : Arithmétique, algèbre de base, résolution d’équations, géométrie et trigonométrie.
@@ -55,6 +58,7 @@ Les concepts en question sont :
  * Le protocole HTTP, en particulier ses méthodes POST et GET
  * Le DOM HTML
  * Définition d’une fonction avec paramètres et les appels
+ * Les tests unitaires et le Test Driven Development (TDD) 
  * Découpage d’une application en « modules » avec plusieurs fonctions
  * En programmation orientée objet (POO):
    * Classe
@@ -64,5 +68,13 @@ Les concepts en question sont :
    * Visibilité
    * Héritage
 
- * L’architecture trois tiers
-De nombreux langages de programmation seront découverts et utilisés pendant la formation. Pour ce qui est de PHP il est supposé que les étudiants l’ont déjà utilisé dans le cadre de développement web et en connaisse donc les bases. En particulier les « PHP Standards recommendations » ([PSR-4](https://www.php-fig.org/psr/psr-4/), [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) et [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)) doivent être assimilées et utilisées.
+De nombreux langages de programmation seront découverts et utilisés pendant la formation.
+Pour ce qui est du développement web, nous commencerons avec PHP. Il est donc supposé que les étudiants l’ont déjà utilisé et qu'ils en connaissent donc les bases:
+
+- Architecture client/serveur
+- Formulaires
+- Base de donnée (PDO)
+- Session
+- Querystring
+
+Les « PHP Standards recommendations » ([PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) et [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)) doivent être assimilées et utilisées.
